@@ -1,4 +1,4 @@
-🏦 [Classe + Objeto, Sistema De Controle De Ar Condicionado]
+ [Classe + Objeto, Sistema De Controle De Ar Condicionado]
 
 > Status do Projeto: 🏁 Concluído 
 
@@ -6,7 +6,7 @@ Uma aplicação desenvolvida para simular um sistema de controle de Ar Condicion
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - [x] Ligar/Desligar
 - [x] Aumentar temperatura
@@ -27,9 +27,11 @@ Uma aplicação desenvolvida para simular um sistema de controle de Ar Condicion
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## ⚙️ Ambiente de Execução
 
-### Pré-requisitos
-Antes de começar, você vai precisar ter instalado na sua máquina:
-* [Git](https://git-scm.com)
-* [Java JDK 17+](https://www.oracle.com/java/technologies/downloads/) (ou o compilador correspondente à linguagem usada)
+Este projeto foi desenvolvido em **Java** e pode ser executado facilmente em qualquer uma das principais IDEs e editores do mercado:
+
+- **VS Code** *(Recomendado com a extensão "Extension Pack for Java")*
+- **IntelliJ IDEA**
+- **Eclipse**
+
